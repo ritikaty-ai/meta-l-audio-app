@@ -1,9 +1,11 @@
-importScripts("https://progressier.app/5W7klt8g84pkKKxq0AzE/sw.js" );
-const CACHE_NAME = 'metalink-v1';
+const CACHE_NAME = 'meta-l-v1.0';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/manifest.json'
+  '/manifest.json',
+  '/logo.png',
+  '/icon-192x192.png',
+  '/icon-512x512.png'
 ];
 
 self.addEventListener('install', event => {
