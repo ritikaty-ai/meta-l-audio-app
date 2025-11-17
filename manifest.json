@@ -1,0 +1,11 @@
+{
+  "name": "Meta-L Audio",
+  "short_name": "Meta-L",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#C49A4C",
+  "icons": [
+    { "src": "/icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
