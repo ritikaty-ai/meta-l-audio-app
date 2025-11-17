@@ -940,4 +940,9 @@ if ('serviceWorker' in navigator) {
 }
 </script>
 </body>
+    <body>
+  <!-- Force PWABuilder to detect SW -->
+  <link rel="service-worker" href="/sw.js">
+  
+  <!-- rest of your HTML -->
 </html>
