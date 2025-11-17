@@ -1,3 +1,4 @@
+// service-worker.js — PWABuilder detection
 const CACHE_NAME = 'meta-l-v1.0';
 const urlsToCache = [
   '/',
