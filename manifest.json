@@ -11,7 +11,7 @@
   "lang": "en",
   "dir": "ltr",
   "id": "/meta-l-audio-app/",
-  "categories": ["music", "entertainment", "utilities"],
+  "categories": ["music","entertainment","utilities"],
   "icons": [
     {
       "src": "/meta-l-audio-app/icon-192x192.png",
@@ -24,22 +24,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "/meta-l-audio-app/screenshot-narrow.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Meta-L Audio Controller on phone"
-    },
-    {
-      "src": "/meta-l-audio-app/screenshot-wide.png",
-      "sizes": "1920x1080",
-      "type": "image/png",
-      "form_factor": "wide",
-      "label": "Meta-L Audio Controller on tablet"
     }
   ]
 }
