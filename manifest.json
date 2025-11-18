@@ -1,49 +1,45 @@
 {
-  "name": "Meta-L Audio Controller",
-  "short_name": "Meta-L",
-  "description": "Premium gold-themed audio controller with EQ, Bluetooth, and media playback",
-  "start_url": "/meta-l-audio-app/",
-  "scope": "/meta-l-audio-app/",
-  "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#C49A4C",
-  "orientation": "portrait-primary",
-  "lang": "en",
-  "dir": "ltr",
-  "id": "/meta-l-audio-app/",
-  "categories": [
-    "music",
-    "entertainment",
-    "utilities"
-  ],
-  "icons": [
-    {
-      "src": "/meta-l-audio-app/icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "/meta-l-audio-app/icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable any"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "/meta-l-audio-app/screenshot-narrow.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Meta-L Audio Controller on phone"
-    },
-    {
-      "src": "/meta-l-audio-app/screenshot-wide.png",
-      "sizes": "1920x1080",
-      "type": "image/png",
-      "form_factor": "wide",
-      "label": "Meta-L Audio Controller on tablet"
-    }
-  ]
+  "name": "Meta-L Audio Controller",
+  "short_name": "Meta-L",
+  "description": "Premium gold-themed audio controller with EQ, Bluetooth, and media playback",
+  "start_url": "/meta-l-audio-app/",
+  "scope": "/meta-l-audio-app/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#C49A4C",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "dir": "ltr",
+  "id": "/meta-l-audio-app/",
+  "categories": ["music", "entertainment", "utilities"],
+  "icons": [
+    {
+      "src": "/meta-l-audio-app/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/meta-l-audio-app/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/meta-l-audio-app/screenshot-narrow.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Meta-L Audio Controller on phone"
+    },
+    {
+      "src": "/meta-l-audio-app/screenshot-wide.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Meta-L Audio Controller on tablet"
+    }
+  ]
 }
